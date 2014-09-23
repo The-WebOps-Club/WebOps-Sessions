@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Form|Styled </title>
+        
+        <style>
+            body {
+                background-color: #FDEEF4;   
+            }
+            
+            p {
+                margin-left: 40%;   
+            }
+            
+            input {
+                border-radius: 5px;
+                height: 30px;
+                width: 300px;
+                padding: 2px 5px;
+                border: 1px solid black;
+                margin-left: 40%;
+                box-sizing: border-box;
+            }
+            select,textarea {
+                border-radius: 5px;
+                height: 30px;
+                width: 300px;   
+                padding: 2px 5px;
+                border: 1px solid black;
+                margin-left: 40%;
+                box-sizing: border-box;
+            }
+                        
+            input:focus,
+            select:focus,
+            textarea:focus {
+                border-color: #66afe9;
+                outline: 0;
+            }
+            
+            button {
+                display: block;
+                border-radius: 5px;
+                height: 30px;
+                padding-bottom: 3px;
+                padding-top: 3px;
+                border: 1px solid #52D017;
+                background-color: #52D017;
+                margin-left: 40%;
+            }
+            
+            button:focus {
+                border-color: green;
+                outline: 0;
+                background-color: green;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1 style="text-align: center">This is a styled Form</h1>
+        <form>
+            <p>Name:</p> <input type="text" name="name" placeholder="First Name"> 
+            <p>State:</p> 
+            <select name="state">
+                <option value="None" selected> None </option>
+                <option value="Tamil Nadu"> Tamil Nadu </option>
+                <option value="Maharastra"> Maharastra </option>
+                <option value="Andhra Pradesh"> Andhra Pradesh </option>
+                <option value="Telangana"> Telangana </option>
+                <option value="Karnataka"> Karnataka </option>
+                <option value="Kerala"> Kerala </option>
+            </select> 
+            <p>Email:</p> <input type="email" name="email" placeholder="Email Id"> 
+            <p>Password:</p> <input type="password" name="password" placeholder="Password"> 
+            <p>Mobile:</p> <input type="number" name="mobile" placeholder="Mobile Number"> 
+            <p>Message:</p> <textarea name="message" placeholder="Your Message..."></textarea>
+            <button type="button"> Submit </button>
+        </form>    
+    </body>
+</html>
