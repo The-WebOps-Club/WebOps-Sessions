@@ -1,0 +1,1535 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 252,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">An</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 393,
+          "y": 304,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#747fd2\">Introduction</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 479,
+          "y": 408,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">to</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 193,
+          "y": 509,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#c53434\">HTML</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 690,
+          "y": 504,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#3f9a18\">CSS</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 469,
+          "y": 507,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\">and</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/SMdlGPK.png",
+          "type": "Image",
+          "x": 243,
+          "y": 56,
+          "scale": {
+            "x": 0.11348518443862127,
+            "y": 0.11348518443862127,
+            "width": 563.0000000000001,
+            "height": 237.63797621447293
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180,
+      "background": "bg-solid-black",
+      "surface": "bg-surf-grad-smoke"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">So...&lt;html&gt; has many such tags which are used<br>to display different things&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"line-height: normal;\"><font color=\"#3f9a18\">&lt;h1&gt;,&lt;h2&gt;,...&lt;h6&gt; -- for headings</font></span><br></li><li><span style=\"line-height: normal;\"><font color=\"#3143d0\">&lt;p&gt; -- for paragraph</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#c53434\">&lt;a&gt; -- for displaying hyperlink</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#ac27cd\">&lt;img&gt; -- to display an image</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#a5b323\">&lt;span&gt; -- provides space to add anything</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#cb2d66\">&lt;div&gt; -- provides space to add anything</font></span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 154,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Commonly used tags are,</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 599,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">How to use them&nbsp;<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 585,
+          "y": 579,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#333333\">?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 497,
+          "y": 604,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#333333\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -0.08,
+      "rotateY": 0,
+      "rotateZ": 9.42,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 434,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 54,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font><font color=\"#c53434\">&lt;html&gt;</font><br><font color=\"#3f39dc\">&lt;head&gt;</font><font color=\"#e62edc\">&lt;title&gt;</font> <font color=\"#887676\">Hello!!</font> <font color=\"#e62edc\">&lt;/title&gt;</font><font color=\"#3f39dc\">&lt;/head&gt;</font><br><font color=\"#20c52c\">&lt;body&gt;</font><br>&lt;h1&gt; <font color=\"#887676\">This is an introductory session</font> &lt;/h1&gt;<br>&lt;p&gt; <font color=\"#887676\">to HTML and CSS</font> &lt;/p&gt;<br><font color=\"#20c52c\">&lt;/body&gt;</font><br><font color=\"#c53434\">&lt;/html&gt;</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 12,
+          "y": 487,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Here, the &lt;html&gt;, &lt;head&gt;, &lt;title&gt;, &lt;body&gt;, <br>&lt;h1&gt;are called opening tags and the things with&nbsp;<br>&lt;/html&gt;, &lt;/head&gt;...are called closing tags<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -1.16,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 16,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<br><font color=\"#385de0\">&lt;body&gt;</font><br><font color=\"#c33b3b\">&lt;h1&gt;</font> Hi!! All <font color=\"#c33b3b\">&lt;/h1&gt;</font><br><font color=\"#c33b3b\">&lt;h6&gt;</font> Good Morning <font color=\"#c33b3b\">&lt;/h6&gt;</font><br><font color=\"#468e1e\">&lt;a</font> href=\"www.shaastra.org\"<font color=\"#468e1e\">&gt;</font> Shaastra <font color=\"#468e1e\">&lt;/a&gt;</font><br><font color=\"#b61db9\">&lt;img</font> src=\"cube.png\" alt=\"shaastra_cube\"<font color=\"#b61db9\">&gt;</font> <br><font color=\"#1db922\">&lt;span&gt;</font><font color=\"#c33b3b\">&lt;h2&gt;</font> This is in span <font color=\"#c33b3b\">&lt;/h2&gt;</font><font color=\"#1db922\">&lt;/span&gt;</font><br><font color=\"#b61db9\">&lt;div&gt;</font><font color=\"#c33b3b\">&lt;h4&gt;</font> This is in div <font color=\"#c33b3b\">&lt;/h4&gt;</font><font color=\"#b61db9\">&lt;/div&gt;</font><br><font color=\"#385de0\">&lt;/body&gt;</font><br>",
+          "selected": false,
+          "skewY": 0
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 638,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Notice that </font><font color=\"#b61db9\">&lt;img&gt;</font><font color=\"#333333\"> has no closing tag!!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 34,
+          "y": 8,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<u><font color=\"#385de0\">Inline and Block elements...</font></u>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 34,
+          "y": 119,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#f21717\">Block</font> elements start and end with&nbsp;<br>a new line.<br><font color=\"#468e1e\">Inline</font><font color=\"#333333\"> elements are displayed&nbsp;<br>without starting a new line.<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 465,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#f21717\">&lt;h1&gt;, &lt;p&gt;, &lt;div&gt; - Block elements</font><br><font color=\"#468e1e\">&lt;a&gt;, &lt;img&gt;, &lt;span&gt; - Inline elements</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 642,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">We can change them using CSS</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1835,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "The tags which don't require closing are called<br>\"<font color=\"#1db922\">singleton tags</font>\" or \"<font color=\"#f21717\">void elements</font>\"<br>Its because their ending is obvious from their&nbsp;<br>context&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">So thats the basic format of any HTML code</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 57,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">Now lets try to make a form</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 285,
+          "y": 504,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">Using HTML</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 2.98,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1853,
+      "y": 410
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 163,
+          "y": 147,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">Did you like the look of <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; the Page</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 415,
+          "y": 394,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#385de0\">?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 496,
+          "y": 364,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#385de0\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.96,
+      "rotateY": 0,
+      "rotateZ": -0.03,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 2210,
+      "y": 442
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 103,
+          "y": 104,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "Do you wanna make<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 249,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#333333\">it look better</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 396,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#3381ca\">?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 527,
+          "y": 375,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#385de0\">?</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 2511,
+      "y": 445
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 173,
+          "y": 104,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#333333\">So here comes</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 264,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#468e1e\">S</font>",
+          "selected": false,
+          "rotate": 0.28,
+          "skewX": 0.39,
+          "skewY": -0.69
+        },
+        {
+          "TextBox": {},
+          "x": 311,
+          "y": 263,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#f21717\">C</font>",
+          "selected": false,
+          "skewX": -0.46,
+          "skewY": 0.57
+        },
+        {
+          "TextBox": {},
+          "x": 517,
+          "y": 268,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#385de0\">S</font>",
+          "selected": false,
+          "rotate": 0.33,
+          "skewX": 0.28,
+          "skewY": -0.1
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 548,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#f21717\">C</font><font color=\"#333333\">ascading </font><font color=\"#468e1e\">S</font><font color=\"#333333\">tyle </font><font color=\"#385de0\">S</font><font color=\"#333333\">heets</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.05,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 3154,
+      "y": 747
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#333333\">Scale,&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 370,
+          "y": 148,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">position or Animate&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "any element<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 104,
+          "y": 415,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">by accessing them directly<br>or by adding a </font><font color=\"#f21717\">.css</font><font color=\"#333333\"> file<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 305,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Rotate,",
+          "selected": false,
+          "skewX": 0,
+          "rotate": -0.35
+        },
+        {
+          "TextBox": {},
+          "x": 572,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "&nbsp;Transform,<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 3278,
+      "y": 865
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">CSS gives us a complete control</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 151,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">of any element in the </font><font color=\"#e21616\">&lt;html&gt;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 270,
+          "y": 285,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">But How ? ?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 464,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">Just add </font><font color=\"#cf14d5\">&lt;style&gt;</font><font color=\"#333333\"> tag or&nbsp;<br>\"</font><font color=\"#1db922\">style</font><font color=\"#333333\">\" attribute<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 3343,
+      "y": 566
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 22,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<u><font color=\"#b61db9\">What are attributes ??</font></u>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Attributes are values which give<br>additional information about the<br>element<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 357,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">Examples are,</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 435,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><font color=\"#3381ca\"><span style=\"line-height: normal;\">href</span><br></font></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">alt</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">name</font></span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 325,
+          "y": 442,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><font color=\"#3381ca\"><span style=\"line-height: normal;\">id</span><br></font></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">class</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">style</font></span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": true,
+      "x": 3549,
+      "y": 565
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 33,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "\"<font color=\"#f21717\">id</font>\" attribute give the element a unique identity<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">and \"</font><font color=\"#f21717\">class</font><font color=\"#333333\">\" gives the element a class literally.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 21,
+          "y": 170,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Same class can be given to different elements&nbsp;<br>but same id can't be given to different elements<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 278,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#1db922\">&lt;style&gt;<br>&nbsp; &nbsp; .class1 {<br>&nbsp; &nbsp; &nbsp; &nbsp; color: red;<br>&nbsp; &nbsp; }<br>&nbsp; &nbsp; #id1 {<br>&nbsp; &nbsp; &nbsp; &nbsp; color: green;<br>&nbsp; &nbsp; }<br>&nbsp; &nbsp; div {<br>&nbsp; &nbsp; &nbsp; &nbsp; color: blue;<br>&nbsp; &nbsp; }<br>&lt;/style&gt;</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 389,
+          "y": 338,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "This shows all the elements&nbsp;<br>with class, \"class1\" as red,<br>element with id, \"id1\" as green<br>and \"div\" element blue<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.05,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 3747,
+      "y": 729
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">The attribute '</font><font color=\"#f21717\">alt</font><font color=\"#333333\">' is used to&nbsp;<br>display some text instead of&nbsp;<br>image if at all it is not available&nbsp;<br>or if an error occured while&nbsp;<br>loading<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 481,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#333333\">Similarly we can add \"</font><font color=\"#1db922\">style</font><font color=\"#333333\">\"<br>attribute to give styles to<br>corresponding element&nbsp;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 3623,
+      "y": 855
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#333333\">There are many features in \"</font><font color=\"#1db922\">style</font><font color=\"#333333\">\"<br>attribute which can be changed<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 60,
+          "y": 198,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li><span style=\"line-height: normal;\">z-Index</span><br></li><li><span style=\"line-height: normal;\">background-color</span></li><li><span style=\"line-height: normal;\">position</span></li><li><span style=\"line-height: normal;\">top</span></li><li><span style=\"line-height: normal;\">left</span></li><li><span style=\"line-height: normal;\">height</span></li><li><span style=\"line-height: normal;\">width</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 5389,
+      "y": 708
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 4660,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<u><font color=\"#f21717\">Keyframes...&nbsp;</font></u><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 116,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Keyframes are like the functions in any other<br>programming languages.<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#385de0\">Syntax:</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 337,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#468e1e\">@keyframes</font> <font color=\"#cf14d5\">mynewfunc</font> {<br>0% &nbsp; /*initial CSS properties*/<br>11% &nbsp; /*intermediate CSS propreties*/<br>39% &nbsp; /*intermediate CSS properties*/<br>100% &nbsp; /*final CSS properties*/<br>}<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 689,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">For chrome, we need \"</font><font color=\"#468e1e\">@-webkit-keyframes</font><font color=\"#333333\">\"</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.57,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 5780,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 172,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">For Safari and Google Chrome, </font><font color=\"#385de0\">-webkit-</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">For Mozilla Firefox, </font><font color=\"#b61db9\">-moz-</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 350,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">For Opera, </font><font color=\"#e21616\">-o-</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 2,
+          "y": 457,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">These are the layout engine software component<br>designed to allow web browsers to render web&nbsp;<br>pages.<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 17,
+          "y": 660,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Rendering here means loading the web page.</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Note that not all CSS properties are supported&nbsp;<br>by all browsers<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 5910,
+      "y": 1213
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">\"</font><font color=\"#e21616\">animation</font><font color=\"#333333\">\" property in CSS is used to call our<br>defined keyframes. It allows us to set the speed&nbsp;<br>and number of iterations also<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 251,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#cf14d5\">#my_id</font><font color=\"#333333\"> {<br>-webkit-animation: </font><font color=\"#385de0\">mynewfunc</font><font color=\"#333333\"> 10s </font><font color=\"#1db922\">infinite</font><font color=\"#333333\">;<br>animation: </font><font color=\"#385de0\">mynewfunc</font><font color=\"#333333\"> 10s </font><font color=\"#1db922\">infinite</font><font color=\"#333333\">;<br>}<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 249,
+          "y": 569,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Lets see them live !!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.58,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 5946,
+      "y": 1004
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<u><font color=\"#1db922\">More properties...</font></u>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"line-height: normal;\"><u><font color=\"#e21616\">:nth child()</font></u></span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 219,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">&lt;div&gt;<br>&lt;p&gt; first p &lt;/p&gt;<br>&lt;p&gt; second p &lt;/p&gt;<br>&lt;p&gt; third p &lt;/p&gt;<br>&lt;/div&gt;<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 606,
+          "y": 168,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "So specifying,<br><br>p:nth-child(1) {<br>color: red<br>}<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 545,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">It changes the color of text in every &lt;p&gt; element<br>which is the first child of its parent...here &lt;div&gt;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 6900,
+      "y": 1300
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 6060,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<u><font color=\"#e21616\">Browser Hacks...</font></u>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"line-height: normal;\"><u><font color=\"#cf14d5\">Browser as a notepad</font></u></span></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 212,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">data:text/html, &lt;html contenteditable&gt;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 307,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"line-height: normal;\"><u><font color=\"#1db922\">Browser \"console\"</font></u></span><br></li></ul>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\">Open browser ...<br>for chrome - Ctrl + Shift + j<br>for firefox - Ctrl + Shift + j (or) Ctrl + Shift + k<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 3.14,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 3450,
+      "y": 908
+    }
+  ],
+  "background": "bg-solid-smoke",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 17,
+        "y": 22,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<u><font color=\"#b61db9\">What are attributes ??</font></u>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 28,
+        "y": 115,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font color=\"#333333\">Attributes are values which give<br>additional information about the<br>element<br></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 24,
+        "y": 357,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font color=\"#333333\">Examples are,</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 53,
+        "y": 435,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<ul><li><font color=\"#3381ca\"><span style=\"line-height: normal;\">href</span><br></font></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">alt</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">name</font></span></li></ul>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 325,
+        "y": 442,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<ul><li><font color=\"#3381ca\"><span style=\"line-height: normal;\">id</span><br></font></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">class</font></span></li><li><span style=\"line-height: normal;\"><font color=\"#3381ca\">style</font></span></li></ul>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 2,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 12,
+    "selected": false,
+    "active": true,
+    "x": 3549,
+    "y": 565
+  },
+  "fileName": "presentation-unnamed.strut",
+  "surface": "bg-custom-afcdf1",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": [
+      {
+        "klass": "bg-custom-afcdf1",
+        "style": "#afcdf1"
+      }
+    ]
+  },
+  "overviewX": 3540,
+  "overviewY": 738.5
+}
