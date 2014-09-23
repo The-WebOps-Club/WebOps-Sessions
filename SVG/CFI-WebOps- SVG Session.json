@@ -1,0 +1,248 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 10,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Frontend WebOps</font>",
+          "size": 122,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 210,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>CFI - WebOps Club</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 56,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>SVG - Scalar Vector Graphics</font>",
+          "size": 72,
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 316,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\">Overview</font>",
+          "size": 91,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 140,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ol><li><font color=\"#000000\"><span style=\"line-height: normal;\">General Instructions</span></font></li><li><font color=\"#000000\"><span style=\"line-height: normal;\">SVG Introduction</span></font></li><li><font color=\"#000000\"><span style=\"line-height: normal;\">SVG Border Animation</span></font></li></ol>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 34,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\">General Instructions</font>",
+          "size": 98,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 186,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"color: rgb(0, 0, 0); line-height: normal;\">Install </span><u style=\"color: rgb(0, 0, 0); line-height: normal;\">S</u><span style=\"color: rgb(0, 0, 0); line-height: normal;\">ublimeText&nbsp;for writing code -&nbsp;</span><br></li><li><span style=\"color: rgb(0, 0, 0); line-height: normal;\">highly recommended&nbsp;</span><br></li><li><span style=\"color: rgb(0, 0, 0); line-height: normal;\">Refer w3schools&nbsp;as a&nbsp;dictionary</span><br></li><li><span style=\"color: rgb(0, 0, 0); line-height: normal;\">Install Inkscape/Illustrator and</span><span style=\"color: rgb(0, 0, 0); line-height: normal;\">GIMP/Photoshop</span></li><li><span style=\"color: rgb(0, 0, 0); line-height: normal;\">Prerequisites: basics of HTML, CSS, JS</span></li></ul><font color=\"#000000\"><br></font>",
+          "size": 44,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\">SVG Introduction</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 123,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#000000\">It stands for \"Scalable Vector Graphics\"</font>",
+          "size": 59,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 19,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><b>FIRST EXAMPLE</b></span></div><font color=\"#000000\">&lt;html&gt;<br>&lt;body&gt;<br>&lt;h1&gt;My first SVG&lt;/h1&gt;<br><br>&lt;svg width=\"100\" height=\"100\"&gt;<br>&nbsp; &lt;circle cx=\"50\" cy=\"50\" r=\"40\" stroke=\"green\" stroke-width=\"4\" fill=\"yellow\" /&gt;<br>&lt;/svg&gt;<br><br>&lt;/body&gt;<br>&lt;/html&gt;<br></font>",
+          "size": 27,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": true,
+      "active": true,
+      "x": 1020,
+      "y": 180
+    }
+  ],
+  "background": "bg-default",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 237,
+        "y": 20,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#000000\">SVG Introduction</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 7,
+        "y": 123,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#000000\">It stands for \"Scalable Vector Graphics\"</font>",
+        "size": 59,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 19,
+        "y": 199,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<div style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><b>FIRST EXAMPLE</b></span></div><font color=\"#000000\">&lt;html&gt;<br>&lt;body&gt;<br>&lt;h1&gt;My first SVG&lt;/h1&gt;<br><br>&lt;svg width=\"100\" height=\"100\"&gt;<br>&nbsp; &lt;circle cx=\"50\" cy=\"50\" r=\"40\" stroke=\"green\" stroke-width=\"4\" fill=\"yellow\" /&gt;<br>&lt;/svg&gt;<br><br>&lt;/body&gt;<br>&lt;/html&gt;<br></font>",
+        "size": 27,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 3,
+    "selected": true,
+    "active": true,
+    "x": 1020,
+    "y": 180
+  },
+  "fileName": "CFI-WebOps: SVG Session",
+  "overviewX": 460,
+  "overviewY": 180
+}
