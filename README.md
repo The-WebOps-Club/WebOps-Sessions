@@ -1,4 +1,4 @@
 WebOps-Sessions
 ===============
 
-Presentations for consucting sessions
+Presentations for conducting sessions
