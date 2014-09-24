@@ -1,0 +1,516 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 547,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>An Introduction To Wordpress</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 229,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "CFI | WebOps Club<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/fJiLc91.png",
+          "type": "Image",
+          "x": -169,
+          "y": 40,
+          "scale": {
+            "x": 0.27010683329973795,
+            "y": 0.27010683329973795,
+            "width": 1340,
+            "height": 565.6037089296512
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Bored of making sites</div><font><div style=\"text-align: center;\">which just sit on your&nbsp;</div><div style=\"text-align: center;\">hard drive and don't seem to&nbsp;</div><div style=\"text-align: center;\">serve any purpose?</div></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 110,
+          "y": 434,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Do you want to just get on&nbsp;</div><div style=\"text-align: center;\">the web&nbsp;with your&nbsp;</div><div style=\"text-align: center;\">OWN website ASAP?</div>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 251,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Use <font color=\"#0f13d0\">wordpress </font>!</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 13,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Wordpress is a very powerful</div><font color=\"#333333\"><div style=\"text-align: center;\">used primarily to create blogs,</div><div style=\"text-align: center;\">but it can also be used to create</div><div style=\"text-align: center;\">stunning webpages!</div></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 572,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">You want an example?</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.cfi-iitm.org/",
+          "type": "WebFrame",
+          "x": 62,
+          "y": 5,
+          "scale": {
+            "x": 0.965625,
+            "y": 0.965625,
+            "width": 927,
+            "height": 741.5999999999999
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Yes, our own CFI website</div><font color=\"#333333\"><div style=\"text-align: center;\">Is completely made in Wordpress</div></font>",
+          "size": 66,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 142,
+          "y": 347,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Okay so let's get started</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 277,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">What we need:</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 247,
+          "y": 428,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Install Wordpress</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 142,
+          "y": 204,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Find a web host&nbsp;</div><font color=\"#333333\"><div style=\"text-align: center;\">(wordpress itself also has hosting)</div></font>",
+          "size": 52,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 267,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Getting Started:</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 175,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">We first start with logging into our <br>wordpress &nbsp;installation.<br></font>",
+          "size": 58,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Go to http://yoursite/wp-admin</font>",
+          "size": 59,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 462,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">You will see the dashboard.<br>The dashboard is the place from where you<br>control your entire site.<br></font>",
+          "size": 51,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": null,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">On the dash, you will see multiple links:<br><br>Dashboard - The dashboard itself<br>Posts - Here, you can add/edit the posts on<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; your \"blog\"<br>Media - This page allows you to upload/edit<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; any media (images/video) onto your&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; website<br>Links - Making a big website, we can quickly<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; lose track of links in our site, which<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; can lead to broken links. For this<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; purpose we have a \"link manager\".<br></font>",
+          "size": 51,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Now, try adding a post to your site with<br>the posts page<br></font>",
+          "size": 57,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 265,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Also, go through the themes and pick<br>out one for your page, you can<br>change it later, too<br></font>",
+          "size": 61,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 29,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Pages - Lists all the pages in your site<br><br>Comments - An easy way to keep<br>of and to control comments on posts<br></font>",
+          "size": 61,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 361,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">This is all the content part of&nbsp;the <br>website, but we have still&nbsp;not <br>explored on how to change <br>the \"look\" of our site<br></font>",
+          "size": 66,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Appearance - This is used to apply themes<br>to your site. Themes can be used to change<br>the look of your site completely just by a<br>click of a button.<br>",
+          "size": 50,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 28,
+          "y": 290,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Plugins - These are used to insert special&nbsp;<br>elements, like a carousel(slideshow),<br>a mutli-level gallery, etc.&nbsp;<br></font>",
+          "size": 52,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 507,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Users, Tools, Settings - <br>Gen settings for your site</font>",
+          "size": 50,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://www.cfi-iitm.org/",
+        "type": "WebFrame",
+        "x": 62,
+        "y": 5,
+        "scale": {
+          "x": 0.965625,
+          "y": 0.965625,
+          "width": 927,
+          "height": 741.5999999999999
+        },
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 3,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "presentation-1",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
