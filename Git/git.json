@@ -1,0 +1,532 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">CFI | Webops Club<br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 225,
+          "y": 609,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Rookie Camp - Git</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/6JT1Th7.png",
+          "type": "Image",
+          "x": -153,
+          "y": 74,
+          "scale": {
+            "x": 0.2588187865349728,
+            "y": 0.2588187865349728,
+            "width": 1284.0000000000002,
+            "height": 541.966539004233
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 190,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Suppose your team is</div><div style=\"text-align: center;\">working on a project</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": 319,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">How would all of you work&nbsp;</div><font color=\"#333333\"><div style=\"text-align: center;\">on ONE project while&nbsp;</div><div style=\"text-align: center;\">each one works on</div><div style=\"text-align: center;\">their on PC?<br></div></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Your divide the work into</div><font color=\"#333333\"><div style=\"text-align: center;\">parts so that each one of you</div><div style=\"text-align: center;\">does one part.</div></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 83,
+          "y": 381,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Now how would all of you</div><font color=\"#333333\"><div style=\"text-align: center;\">share the progress you have</div><div style=\"text-align: center;\">made with your team?</div></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 56,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">You could do the following:<br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 205,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Sending each other emails with your work as<br>attachments<br></font>",
+          "size": 45,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Set up a folder in google drive /dropbox and<br>everyone puts their work in it.<br></font>",
+          "size": 43,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 108,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<br>",
+          "size": 52,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 105,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">What could go wrong?<br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 68,
+          "y": 179,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">It is way to painful to send emails and <br>then download and extract and paste<br>them in the right location.<br></font>",
+          "size": 55,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 66,
+          "y": 422,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">In the case of using cloud storage, if you&nbsp;<br>\"accidentally\" delete your folder,<br>getting back to that old state will be tough.<br></font>",
+          "size": 52,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 361,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Git is a utility made for sharing&nbsp;</div><div style=\"text-align: center;\">code between teammates<br>and working together</div><div style=\"text-align: center;\">on the same project.</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 152,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">So what do we do?</div><font color=\"#333333\"><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Ans: &nbsp;Use Git (on github)</div></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 288,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Installing Git:</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 13,
+          "y": 162,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Windows - Go to github.com</div><font color=\"#333333\"><div style=\"text-align: center;\">and download the latest version</div></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 103,
+          "y": 403,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Ubuntu - In terminal, type</div><font color=\"#333333\"><div style=\"text-align: center;\">sudo apt-get install git</div></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 220,
+          "y": 52,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">How does it work?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 78,
+          "y": 173,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">You create a repository<br>a.k.a. \"a folder\" for your team<br>on github.com<br></font>",
+          "size": 62,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 86,
+          "y": 427,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\">Then you open git shell (terminal<br>for linux users) and type<br>git &nbsp;clone &nbsp;link_to_your_repo<br></font>",
+          "size": 56,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 87,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\">Now, we see </span><span style=\"font-family: Lato;\">how to \"copy\"&nbsp;</span><span style=\"font-family: Lato;\">your code&nbsp;</span></div><div style=\"text-align: center;\"><span style=\"font-family: Lato;\">into the repo.</span></div>",
+          "size": 51,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 90,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\" face=\"Lato\">Change directory to the&nbsp;\"cloned\" folder<br></font>",
+          "size": 51,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 94,
+          "y": 295,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\" face=\"Lato\">Now we run three commands:<br>git add --all<br>git commit -m \"Text message\"<br>git push origin master<br></font>",
+          "size": 58,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 154,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Lato\">Now that you have \"pushed\" your code,<br></font>how does your teammate access it?<br>",
+          "size": 57,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 377,
+          "y": 387,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#333333\" face=\"Lato\">Simple:<br>git pull<br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 220,
+        "y": 52,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#333333\">How does it work?</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 78,
+        "y": 173,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#333333\">You create a repository<br>a.k.a. \"a folder\" for your team<br>on github.com<br></font>",
+        "size": 62,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 86,
+        "y": 427,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font color=\"#333333\">Then you open git shell (terminal<br>for linux users) and type<br>git &nbsp;clone &nbsp;link_to_your_repo<br></font>",
+        "size": 56,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 7,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "presentation-2",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
