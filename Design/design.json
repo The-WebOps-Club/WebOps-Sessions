@@ -1,0 +1,454 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/MhVLvCd.png",
+          "type": "Image",
+          "x": -162,
+          "y": -29,
+          "scale": {
+            "x": 0.2670832493448901,
+            "y": 0.2670832493448901,
+            "width": 1324.9999999999998,
+            "height": 559.2723241281998
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 180,
+          "y": 514,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>Pragathi Praveena &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tejasvin S</font>",
+          "size": 39,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 375,
+          "y": 167,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font>UI and UX</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -0.02,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 154,
+          "y": 164,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">User Interface&nbsp;</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">system for a user to interact&nbsp;</div><div style=\"text-align: center;\">with the product&nbsp;</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">The pretty stuff is just a bi-product</div>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 338,
+          "y": 253,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Breadcrumbs</div><font><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Flipkart</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\">https://goodui.org/</div><font><div style=\"text-align: center;\">gmail.com</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">Skeuomorphism</div><div style=\"text-align: center;\">http://graphicriver.net/item/royce-gui-graphical-user-interface/411333?ref=cazoobi</div><div style=\"text-align: center;\"><br></div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 179,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">User Experience</div><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">factors related to design and usability</div><div style=\"text-align: center;\">&nbsp;</div><div style=\"text-align: center;\">emotions and feelings generated in user</div><div style=\"text-align: center;\">&nbsp;accessibility</div>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/wa30XCw.jpg",
+          "type": "Image",
+          "x": 143,
+          "y": 98,
+          "scale": {
+            "x": 1.5319999999999998,
+            "y": 1.5726495726495726,
+            "width": 765.9999999999999,
+            "height": 552
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 233,
+          "y": 243,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Let's analyse</div><font><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">http://etchapps.com/</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/5bwMOCI.png",
+          "type": "Image",
+          "x": 121,
+          "y": 76,
+          "scale": {
+            "x": 1.4685185185185183,
+            "y": 1.5222772277227723,
+            "width": 792.9999999999999,
+            "height": 615
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 316,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Mock Ups in Photoshop</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 234,
+          "y": 282,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Design Fundamentals</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 419,
+          "y": 193,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<div style=\"text-align: center;\">Colour</div><font><div style=\"text-align: center;\"><br></div><div style=\"text-align: center;\">RGB</div><div style=\"text-align: center;\">CMYK</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 127,
+          "y": 88,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>File formats<br><br>JPEG - Joint Photographic Experts Group<br>Lossy compressions<br>Don't use for line drawings - makes the lines jagged<br><br>GIF - Graphic Interchange Format<br>Lossless compression<br>Limited colours &nbsp;- not for photography<br><br>PNG - Portable Network Graphics<br>Open Source GIF<br>Not for print - excellent for web<br><br>TIFF - Tagged Image File Format<br>No compression<br>Lots of manipulation possible<br>Huge file size<br><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Layers<br>Rasterize - vectors vs rasters<br>Fonts<br><br><br><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 16,
+          "text": "<font>http://webdesign.tutsplus.com/tutorials/designing-a-web-app-ui-kit-in-adobe-photoshop--cms-21963</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 132,
+          "y": 275,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Designing a Web-App UI Kit</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 454,
+          "y": 93,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>HW :)</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 341.3333333333333,
+        "y": 256,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font>Layers<br>Rasterize - vectors vs rasters<br>Fonts<br><br><br><br></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 13,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "presentation-2",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
